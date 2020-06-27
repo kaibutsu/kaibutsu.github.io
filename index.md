@@ -5,3 +5,4 @@ Karpador ist ein fischähnliches Pokémon, das als eines der wenigen die vernich
 * Als Sushi ungenießbar
 * Als Haustier nur bedingt geeignet
 > Karpador!
+<img src='https://cdn.pixabay.com/photo/2016/07/23/02/32/magikarp-1536179_1280.png'/>
