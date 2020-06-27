@@ -4,3 +4,4 @@ Karpador ist ein fischähnliches Pokémon, das als eines der wenigen die vernich
 * Beherrscht nur wenige Techniken
 * Als Sushi ungenießbar
 * Als Haustier nur bedingt geeignet
+> Karpador!
